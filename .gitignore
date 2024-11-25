@@ -1,0 +1,16 @@
+# backend module
+/server/node_modules
+
+# frontend module
+/client/node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build output
+frontend/build/
+backend/dist/
+
+# Environment variables
+.env
